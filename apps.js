@@ -1,22 +1,3 @@
-const player = {
-    name: "nico",
-    sayHello: function(otherPersonName){
-        console.log("hello " + otherPersonName + " nice meet you");
-    },
-};
-
-console.log(player.name);
-player.sayHello("gitae")
-
-
-//function plus(potato,tomato){
-  //  console.log(potato+tomato);
-//}
-//plus(potato=2, tomato=4);
-//alert(potato);
-//plus(4,5);
-//console.log(potato);
-
 //계산기 만들기 코드
 
 const calculator={
